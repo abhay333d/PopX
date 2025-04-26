@@ -13,7 +13,6 @@ const AccountSettingsPage = ({ userData }) => {
             alt="Profile"
             className="w-20 h-20 rounded-full object-cover"
           />
-          {/* Camera Icon in violet circle */}
           <div className="absolute bottom-0 right-0 bg-violet-600 rounded-full p-2">
             <svg
               xmlns="http://www.w3.org/2000/svg"
